@@ -1,0 +1,12 @@
+"base"
+{
+  "title"  "Cave Fight"
+  "base"   "base"
+	"menusystem"	"1"
+	"maps"		"cave"
+
+  "settings"
+  {
+
+  }
+}
